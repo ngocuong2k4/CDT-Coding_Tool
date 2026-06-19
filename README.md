@@ -1,3 +1,3 @@
 # CDT
-Automotive decoding and encoding.
-Read DTC error codes.
+Automotive decoding and encoding,
+read DTC error codes.
